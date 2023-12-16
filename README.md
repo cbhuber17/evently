@@ -2,6 +2,6 @@
 
 Event planning app!
 
-# TODO:
-
--
+<h1 align="center">
+    <img src="public/images/logo.svg"/>
+</h1>
